@@ -1,7 +1,7 @@
 # filestoringbot
 stores files with file_id on telegram ( "This bot is only for storing and sending files and not for promoting violation of copyright")
 
-<a href="https://heroku.com/deploy?template=https://github.com/Kunal-Diwan/FileSearchBot">
+<a href="https://heroku.com/deploy?template=https://github.com/ccadmin1/FileSearchBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
