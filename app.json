@@ -1,7 +1,7 @@
 {
-	"name": "JsFileStoreBot",
+	"name": "FileStoreBot",
 	"description": "file storing bot made in JAVA SCRIPT",
-	"repository": "https://github.com/Kunal-Diwan/JsFileStoreBot",
+	"repository": "https://github.com/ccadmin1/FileSearchBot",
     "logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["telegram","filestoring","bot","nodejs"],
 	"env": {
